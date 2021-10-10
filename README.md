@@ -1,2 +1,6 @@
-# anki_deck__IntelliJ_IDEA_Windows_and_Linux_keymap
-Anki deck containing all Windows / Linux shortcuts for Intellij IDEA
+# IntelliJ IDEA Windows & Linux keymap
+[Anki](https://apps.ankiweb.net/) deck containing all Windows/Linux shortcuts (122 flashcards) for Intellij IDEA (including tags for each category)  
+The deck is based on [IntelliJ IDEA ReferenceCard](https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf)
+
+# Using a deck
+Download .apkg file and import it in Anki app
